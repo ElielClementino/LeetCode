@@ -4,7 +4,7 @@
 Utilizei a versão v14.20.0 do node para rodar os arquivos em js do projeto
 
 ## Versionamento Python:
-Utilizei a versão 3.11.0 do Python, deve-se atentar a versão do python pois algumas libs que foram utilizadas podem apresentar erros em versões anteriores, por exemplo o Counter que foi utilizado nesse exercício ----> [Exercício](https://github.com/ElielClementino/LeetCode/blob/master/hard/MaximumScoreWordsFormedbyLetters.py)
+Utilizei a versão 3.11.0 do Python, deve-se atentar a versão do python pois algumas libs que foram utilizadas podem apresentar erros em algumas versões, por exemplo o Counter que foi utilizado nesse exercício ----> [Exercício](https://github.com/ElielClementino/LeetCode/blob/master/hard/MaximumScoreWordsFormedbyLetters.py)
 
 
 ### Testando os exercícios
