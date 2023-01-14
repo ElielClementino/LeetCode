@@ -9,5 +9,5 @@ Utilizei a versão 3.11.0 do Python, deve-se atentar a versão do python pois al
 
 ### Testando os exercícios
 
-caso seja Javascript rode no terminal node nome_do_arquivo.js
-caso seja Python rode no terminal python nome_do_arquivo.py
+Caso seja Javascript rode no terminal node nome_do_arquivo.js  
+Caso seja Python rode no terminal python nome_do_arquivo.py
